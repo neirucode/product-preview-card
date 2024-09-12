@@ -136,6 +136,7 @@ button:hover {
     background-color: var(--hover);
 }
 
+/* 
 /* Styles for larger screens (1440px and up) */
 @media (min-width: 480px) {
     .container {
@@ -239,6 +240,7 @@ button:hover {
     }
 }
 
+*/
 /* Styles for larger screens (1440px and up) */
 @media (min-width: 769px) {
     .container {
